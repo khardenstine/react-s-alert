@@ -1,17 +1,17 @@
 {
-  "name": "react-s-alert",
-  "version": "1.3.0",
+  "name": "react-s-alert-khardenstine",
+  "version": "1.3.1",
   "description": "Alerts / Notifications for React with rich configuration options",
   "repository": {
     "type": "git",
-    "url": "https://github.com/juliancwirko/react-s-alert.git"
+    "url": "https://github.com/khardenstine/react-s-alert.git"
   },
-  "author": "Julian Ćwirko",
+  "author": "Karl Hardenstine",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/juliancwirko/react-s-alert/issues"
+    "url": "https://github.com/khardenstine/react-s-alert/issues"
   },
-  "homepage": "https://github.com/juliancwirko/react-s-alert",
+  "homepage": "https://github.com/khardenstine/react-s-alert",
   "keywords": [
     "react-component",
     "react",
